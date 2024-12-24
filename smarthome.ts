@@ -243,7 +243,7 @@ namespace smarthome {
     //% blockId="readdht11" block="DHT11 sensor %pin %dht11state value"
     //% dht11state.fieldEditor="gridpicker" dht11state.fieldOptions.columns=1
     /*export function dht11Sensor(pin: DigitalPin, dht11state: DHT11_state): number {
-        basic.pause(2000)  //两次请求之间必须间隔2000ms以上
+        basic.pause(2000)  //2回のリクエストの間は2000ミリ秒以上の間隔が必要
         pins.digitalWritePin(pin, 0)
         basic.pause(18)
         let i = pins.digitalReadPin(pin)
