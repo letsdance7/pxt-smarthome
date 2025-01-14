@@ -1,6 +1,6 @@
 {
     "name": "smarthome-kit",
-    "version": "2.2.2",
+    "version": "2.2.3",
     "description": "ELECFREAKS Smart Home Kit",
     "license": "MIT",
     "dependencies": {
@@ -12,7 +12,8 @@
         "README.md",
         "smarthome.ts",
         "_locales/zh/smarthome-kit-jsdoc-strings.json",
-        "_locales/zh/smarthome-kit-strings.json"
+        "_locales/zh/smarthome-kit-strings.json",
+        "_locales/ja/smarthome-kit-strings.json"
     ],
     "testFiles": [
         "tests.ts"
