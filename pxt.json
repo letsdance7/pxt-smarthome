@@ -5,7 +5,7 @@
     "license": "MIT",
     "dependencies": {
         "core": "*",
-        "SSD1306_OLED": "github:tinkertanker/pxt-oled-ssd1306",
+        "SSD1306_OLED": "github:letsdance7/pxt-oled-ssd1306",
         "neopixel": "github:elecfreaks/pxt-neopixel"
     },
     "files": [
@@ -20,7 +20,7 @@
     ],
     "public": true,
     "targetVersions": {
-        "target": "7.0.57",
+        "target": "7.0.61",
         "targetId": "microbit"
     },
     "supportedTargets": [

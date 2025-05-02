@@ -15,7 +15,7 @@
   "smarthome.Relay|block": "リレー %pin を %Relaystate に切り替え",
   "smarthome.crashSensorSetup|block": "衝突センサーを %crashpin に接続する設定",
   "smarthome.crashSensor|block": "衝突センサーが押されました",
-  "smarthome.dht11Sensor|block": "DHT11温湿度センサー %pin %dht11state 値",
+  "smarthome.dht11Sensor|block": "DHT11 温湿度センサー %pin %dht11state 値",
   "smarthome.ledBrightness|block": "LED %pin を $ledstate に切り替え || 輝度 %brightness \\%",
   "smarthome.motorFan|block": "モーターファン %pin を $fanstate に切り替え || 速度 %speed \\%",
   "smarthome.ultrasoundSensor|block": "超音波センサー ピン%pinT 距離 %distance_unit",
